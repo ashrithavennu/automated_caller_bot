@@ -63,7 +63,7 @@ automated-caller-bot/
 ### 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/shaiksaheid/automated_caller_bot.git
+git clone https://github.com/vennuashritha/automated_caller_bot.git
 cd automated-caller-bot
 ```
 
@@ -148,7 +148,7 @@ Academic Year: 2025–2026
 
 ## 👨‍💻 Author
 
-**Shaik Shaheid**
+**Vennu Ashritha**
 GitHub: https://github.com/vennuashritha
 
 ---
